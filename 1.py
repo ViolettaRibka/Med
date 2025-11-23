@@ -1,6 +1,7 @@
 import random
 
-class NotImplementedExtention(Exception)
+class NotImplementedExtention(Exception):
+    pass
 
 def cards():
     while True:
